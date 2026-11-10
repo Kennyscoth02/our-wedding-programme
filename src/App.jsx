@@ -49,7 +49,7 @@ function App() {
         <img src={couple} alt="Temitayo and Temitope" />
       </div>
       <h1>
-        Opeyemi<span>&amp;</span>Emmanuel
+        Temitayo<span>&amp;</span>Temitope
       </h1>
       <p className="small">Saturday 14th November 2026 · 10:00 AM</p>
 
